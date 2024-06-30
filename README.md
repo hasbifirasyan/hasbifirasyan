@@ -2,8 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20there!&desc=Welcome%20to%20hasbifirasyan's%20page!" />
 </p>
 <hr>
+
 ```yaml
-* name: Hasbi Firasyan
+name: Hasbi Firasyan
 located_in: Bandung, Indonesia
 education:
   [
@@ -25,6 +26,7 @@ technical_background:
 currently_learning: ["Go"]
 2024 Goals: ["Create 5 Projects and learn at least 5 new Technologies."]
 hobbies: ["Softball", "Playing saxophone", "Jogging"]
+```
 <br>
 <hr>
 
@@ -38,4 +40,14 @@ hobbies: ["Softball", "Playing saxophone", "Jogging"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="graphql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="45" height="45" /> 
 </p>
+<br>
+<hr>
+
