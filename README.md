@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20there!&desc=Welcome%20to%20hasbifirasyan's%20page!" />
 </p>
 <hr>
 ```yaml
@@ -24,9 +24,9 @@ technical_background:
   
 currently_learning: ["Go"]
 2024 Goals: ["Create 5 Projects and learn at least 5 new Technologies."]
-hobbies: ["Softball", "Playing saxophone", "Jogging"] *
-```
-
+hobbies: ["Softball", "Playing saxophone", "Jogging"]
+<br>
+<hr>
 
 <h2> Some Tools I Have Used and Learned</h2>
 <p align="left">
