@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20there!&desc=Welcome%20to%20hasbifirasyan's%20page!" />
 </p>
 
-<hr>
+<h2>About Me</h2>
 
 ```yaml
 name: Hasbi Firasyan
@@ -24,7 +24,7 @@ technical_background:
     "Full Stack Developer"
   ]
   
-currently_learning: ["Go"]
+currently_learning: ["Go, NestJS, Flutter"]
 2024 Goals: ["Create 5 Projects and learn at least 5 new Technologies."]
 hobbies: ["Softball", "Playing saxophone", "Jogging"]
 ```
@@ -49,13 +49,7 @@ hobbies: ["Softball", "Playing saxophone", "Jogging"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="45" height="45" /> 
 </p>
-<br>
-<hr>
 
-<h2> My Github History </h2>
-[![hasbifirasyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasbifirasyan)](https://github.com/hasbifirasyan/github-readme-stats)
-![Snake animation](https://github.com/hasbifirasyan/hasbifirasyan/blob/output/github-contribution-grid-snake.svg)
-<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&rotate=180&section=footer" />
 </p>
