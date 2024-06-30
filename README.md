@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20there 👋!&textBg=false&animation=twinkling&desc=Welcome%20to%20boyhasboy's%20page&descAlignY=69" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 </p>
 <hr>
-
-```
-yaml
-
-name: Hasbi Firasyan
+```yaml
+* name: Hasbi Firasyan
 located_in: Bandung, Indonesia
 education:
   [
@@ -27,8 +24,9 @@ technical_background:
   
 currently_learning: ["Go"]
 2024 Goals: ["Create 5 Projects and learn at least 5 new Technologies."]
-hobbies: ["Softball", "Playing saxophone", "Jogging"]
+hobbies: ["Softball", "Playing saxophone", "Jogging"] *
 ```
+
 
 <h2> Some Tools I Have Used and Learned</h2>
 <p align="left">
