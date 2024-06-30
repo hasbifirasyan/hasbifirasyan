@@ -51,3 +51,5 @@ hobbies: ["Softball", "Playing saxophone", "Jogging"]
 <br>
 <hr>
 
+<h2> My Github History </h2>
+![Snake animation](https://github.com/hasbifirasyan/hasbifirasyan/blob/output/github-contribution-grid-snake.svg)
