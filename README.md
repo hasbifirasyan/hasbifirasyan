@@ -24,7 +24,7 @@ technical_background:
     "Full Stack Developer"
   ]
   
-currently_learning: ["Go, NestJS, Flutter"]
+currently_learning: ["React & Nextjs"]
 2024 Goals: ["Create 5 Projects and learn at least 5 new Technologies."]
 hobbies: ["Softball", "Playing saxophone", "Jogging"]
 ```
