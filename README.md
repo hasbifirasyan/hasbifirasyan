@@ -24,8 +24,8 @@ technical_background:
     "Full Stack Developer"
   ]
   
-currently_learning: ["React & Nextjs"]
-2024 Goals: ["Create 5 Projects and learn at least 5 new Technologies."]
+currently_learning: ["ReactJs, Flask, Java"]
+2025 Goals: ["develop 2 application using Java, 2 application using ReactJs, enhance in Banking IT"]
 hobbies: ["Softball", "Playing saxophone", "Jogging"]
 ```
 <br>
